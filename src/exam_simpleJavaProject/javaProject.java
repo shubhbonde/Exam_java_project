@@ -7,6 +7,7 @@ public class javaProject {
 		
 		System.out.println("github problem ");
 		System.out.println("github after changes");
+		System.out.println("github after second changes");
 
 	}
 
