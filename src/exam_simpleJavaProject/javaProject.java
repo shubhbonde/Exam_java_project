@@ -6,6 +6,7 @@ public class javaProject {
 		// TODO Auto-generated method stub
 		
 		System.out.println("github problem ");
+		System.out.println("github after changes");
 
 	}
 
